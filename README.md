@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
         }
     });
     
- ## StreaSubscription:
+ ## StreamSubscription:
  It is an event from a stream. The subscription provides events to the listener and holds the callbacks used to handle the events.
  
  The subscription can also be used to unsubscribe from the events or to temporarily pause the events from the stream.
